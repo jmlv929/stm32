@@ -40,3 +40,13 @@ ctrl + M 可以测量
 按住ctrl 点击元器件可以高亮 按住ctrl 点击别的地方 取消高亮
 
 ctrl + shift +滚轮  切换层
+
+
+
+**本工程只是为了练习Altium Designer软件，并进行打样，并未实际测试**
+
+实物图片：
+
+<img src="./pic/0.jpg" width = 400>
+
+<img src="./pic/1.jpg" width = 400>

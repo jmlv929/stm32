@@ -71,10 +71,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KHLTRWYC
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for stm32\Design Rule Check - stm32.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
